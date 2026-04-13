@@ -41,7 +41,7 @@ Analyze telecom operator performance to identify inefficiencies and improve cust
 🔗 Tableau Public (interactive):
 https://public.tableau.com/app/profile/marco.mart.nez2361/viz/TelecomOperatorEfficiencyAnalysis/KPIs?publish=yes
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ---
 
